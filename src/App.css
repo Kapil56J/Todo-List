@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+.App-header {
+  color: #282c34;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: Tahoma, Verdana, sans-serif;
+}
+.App-subheader{
+  font-family: "Lucida Console", "Courier New", monospace, italic;
+}
+#app-item{
+  text-align: center;
+}
+
+
+
+
